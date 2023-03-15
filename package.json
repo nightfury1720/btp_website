@@ -1,0 +1,12 @@
+{
+  "name": "btp_website",
+  "version": "1.0.0",
+  "description": "It is a web-project designed to implement basic functionalities of quora-app. It aims at replicating only essential features  such that it will be a question-answer platform where anyone can read and post or upvote the answer (By logging in).  The front-end is designed using react-framework and backend is made using nodejs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
